@@ -21,7 +21,7 @@ npm run lint
 ```
 
 
-### By typing this Command Run Tailwind CSS
+### Compile Tailwind CSS
 ```
 npx tailwindcss -i ./src/index.css -o ./dist/output.css --watch
 ```
