@@ -20,5 +20,12 @@ npm run build
 npm run lint
 ```
 
+
+### By typing this Command Run Tailwind CSS
+```
+npx tailwindcss -i ./src/index.css -o ./dist/output.css --watch
+```
+
+
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
