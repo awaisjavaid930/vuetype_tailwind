@@ -1,4 +1,4 @@
-# tt-vue
+# Vue app - Typescript -  Tailwind CSS Starter KIT
 
 ## Project setup
 ```
@@ -24,6 +24,12 @@ npm run lint
 ### By typing this Command Run Tailwind CSS
 ```
 npx tailwindcss -i ./src/index.css -o ./dist/output.css --watch
+```
+
+
+### Developer Email
+```
+awaisjavaid93@gmail.com
 ```
 
 
