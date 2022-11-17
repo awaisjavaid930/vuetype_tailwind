@@ -1,2 +1,2 @@
 # vuetype_tailwind
-A Repo for Configure Vue, Typescript and Tailwind CSS
+This Repositry provide you scaffolding of  Vue App,  Typescript and Tailwindcss 
